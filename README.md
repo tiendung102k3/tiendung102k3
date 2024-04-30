@@ -1,3 +1,5 @@
+![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Dura")
+
 <h1 align="center">Hi 👋, I'm Tien Dung</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
