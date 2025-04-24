@@ -10,7 +10,7 @@
 - 📫 How to contact me:
 - **Mail: **monstertattoovn696@gmail.com***
 - **Zalo: **0766459014***
-- **Telegram: **t.me/tiendung2k03***
+- **Telegram: **https://t.me/tiendung2k03***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
