@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tien Dung</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiendung102l3" alt="tiendung102l3" /></a> </p>
+
 
 - 🌱 I’m currently learning **https://github.com/tiendung102k3/DoLive**
 
