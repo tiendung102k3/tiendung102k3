@@ -5,9 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiendung102l3" alt="tiendung102l3" /></a> </p>
 
-- 🌱 I’m currently learning **https://github.com/tiendung102k3/Dura**
+- 🌱 I’m currently learning **https://github.com/tiendung102k3/DoLive**
 
-- 📫 How to contact me **monstertattoovn696@gmail.com**
+- 📫 How to contact me:
+- **Mail: **monstertattoovn696@gmail.com***
+- **Zalo: **0766459014***
+- **Telegram: **t.me/tiendung2k03***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
